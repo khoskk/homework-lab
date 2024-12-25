@@ -106,7 +106,7 @@ atd: демон, который выполняет задачи, заплани�
 https://wiki.archlinux.org/title/Autostarting#On_time_events
 https://www.gnu.org/manual/manual.html
 https://linux.die.net/man/1/at
-Проверка задания:
+
 
 
 
